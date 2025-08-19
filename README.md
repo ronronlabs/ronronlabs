@@ -10,6 +10,8 @@ My core belief: technology and AI should serve people, not the other way around.
 - [Flood Risk Analyzer](https://github.com/pegasuschild/flood-risk-analyzer): An automated flood risk assessment tool using Python, GeoPandas, and Google Earth Engine to analyze government, topographical, and modeled data for any Quebec address.
 - [Address To Insights with StatCan](https://github.com/pegasuschild/Address2Insights): A data tool to turn any Canadian address into meaningful socioeconomic and market insights using **Statistics Canada** dataset
 - [Canadian Home Revaluator](https://github.com/ronronlabs/canadian-home-revaluator): A Python tool to estimate the current market value of a Canadian property based on its purchase price and date, using historical data from the **CREA MLS® Home Price Index (HPI)**.
+- [Gemini (LLM) Job Scout](https://github.com/ronronlabs/Gemini-Job-Scout/): An intelligent, automated **AI Agent** that scrapes job boards, scores opportunities against your resume using **Gemini LLM**, and delivers a personalized daily digest to your inbox. This project is designed to be deployed as a serverless function on Google Cloud.
+
 
 ## 🌟 Skills
 - Data Science
