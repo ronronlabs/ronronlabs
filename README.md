@@ -5,10 +5,11 @@ I’m a passionate citizen data scientist and advocate for **data democracy**, w
 My core belief: technology and AI should serve people, not the other way around. I lead initiatives in **data science**, **predictive modeling**, **credit risk**, **default forecasting**, **geospatial analytics**, and **location intelligence** to drive smarter choices at scale.
 
 ## Projects
-- [DataBite Chatbot](https://github.com/pegasuschild/DataBite-Chatbot): A Streamlit app that explains data science terms in simple, 10-year-old-friendly language.
-- [Weather Agent](https://github.com/pegasuschild/weather-agent): An agent to provide daily activity recommendations (walks, indoor options) based on a user-defined location's weather, air quality, and weather event warnings.
+- [DataBite Chatbot](https://github.com/pegasuschild/DataBite-Chatbot): A Streamlit **Chatbot app** that explains data science terms in simple, 10-year-old-friendly language.
+- [Weather Agent](https://github.com/pegasuschild/weather-agent): An **AI agent** to provide daily activity recommendations (walks, indoor options) based on a user-defined location's weather, air quality, and weather event warnings.
 - [Flood Risk Analyzer](https://github.com/pegasuschild/flood-risk-analyzer): An automated flood risk assessment tool using Python, GeoPandas, and Google Earth Engine to analyze government, topographical, and modeled data for any Quebec address.
-- [Address2Insights](https://github.com/pegasuschild/Address2Insights): A data tool to turn any Canadian address into meaningful socioeconomic and market insights using Statistics Canada
+- [Address2Insights](https://github.com/pegasuschild/Address2Insights): A data tool to turn any Canadian address into meaningful socioeconomic and market insights using **Statistics Canada** dataset
+- [Canadian Home Revaluator](https://github.com/ronronlabs/canadian-home-revaluator): A Python tool to estimate the current market value of a Canadian property based on its purchase price and date, using historical data from the **CREA MLS® Home Price Index (HPI)**.
 
 ## 🌟 Skills
 - Data Science
